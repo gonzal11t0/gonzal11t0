@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gonzal11t0
 - 👀 I’m interested in sports, programming in general, web development, cyber security, economics in general.
-- 🌱 I’m currently learning I am currently learning programming
+- 🌱 I’m currently learning learning programming
 - 💞️ sought to collaborate in web development or programming in general
 - 📫 How to reach me:
 email:
