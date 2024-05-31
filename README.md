@@ -19,7 +19,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/lazarte gonzalo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="lazarte gonzalo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gonzalo-lazarte-desarrollador-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-lazarte-desarrollador-web" height="30" width="40" /></a>
 <a href="/https://gonzal11t0.github.io/cvweb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gonzal11t0.github.io/cvweb/" height="30" width="40" /></a>
 </p>
