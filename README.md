@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://gonzal11t0.github.io/cvWeb/](https://gonzal11t0.github.io/cvWeb/)
 
-- 📝 I regularly write articles on [https://gonzal11t0.github.io/cvWeb/](https://gonzal11t0.github.io/cvWeb/)
+- 📝 I regularly write articles on [(https://github.com/gonzal11t0)](https://github.com/gonzal11t0)
 
 - 💬 Ask me about **Html, Css, Bootstrap, Sass, JavaScript, Json, Python, Nodes, Sql**
 
