@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm gonzalo</h1>
 <h3 align="center">A passionate frontend developer and programming in general</h3>
 
-- 🔭 I’m currently working on [Ecommerce](.)
+- 🔭 I’m currently working on **Ecommerce**
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [.](.)
-
-- 🤝 I’m looking for help with [.](.)
-
 - 👨‍💻 All of my projects are available at [https://gonzal11t0.github.io/cvWeb/](https://gonzal11t0.github.io/cvWeb/)
 
-- 📝 I regularly write articles on [(https://github.com/gonzal11t0)](https://github.com/gonzal11t0)
+- 📝 I regularly write articles on [https://gonzal11t0.github.io/cvWeb/](https://gonzal11t0.github.io/cvWeb/)
 
 - 💬 Ask me about **Html, Css, Bootstrap, Sass, JavaScript, Json, Python, Nodes, Sql**
 
@@ -20,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gonzalo-lazarte-desarrollador-web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzalo-lazarte-desarrollador-web" height="30" width="40" /></a>
-<a href="[/https://gonzal11t0.github.io/cvweb/](https://github.com/gonzal11t0)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gonzal11t0.github.io/cvweb/" height="30" width="40" /></a>
+<a href="/https://gonzal11t0.github.io/cvweb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://gonzal11t0.github.io/cvweb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
